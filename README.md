@@ -38,6 +38,13 @@ Me chamo Arthur Loureiro Nolasco, tenho 22 anos e sou natural do Espírito Santo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" 
+<img 
+    align="left" 
+    alt="VHDL" 
+    title="VHDL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/a1/af/cfa1afe8-fb4b-7243-a089-51071589dc64/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg" 
 />
 <img 
     align="left" 
