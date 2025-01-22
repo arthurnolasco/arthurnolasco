@@ -100,6 +100,8 @@ Me chamo Arthur Loureiro Nolasco, tenho 22 anos e sou natural do Espírito Santo
   />
 </p>
 
+/>
+
 ### 🧠CERTIFICAÇÕES
 
 Aplicação do Power BI para Aprimoramento da Gestão, Escola Nacional de Admnistração Pública
