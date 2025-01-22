@@ -91,6 +91,12 @@ Me chamo Arthur Loureiro Nolasco, tenho 22 anos e sou natural do Espírito Santo
 <br/>
 <br/>
 
+### 🧠CERTIFICAÇÕES
+
+Aplicação do Power BI para Aprimoramento da Gestão, Escola Nacional de Admnistração Pública
+Microsoft Excel 2016 - Intermediário, Fundação Bradesco
+Desenvolvimento Web Completo, Udemy
+
 ### 📊 Estatísticas
 <img 
       align="left" 
@@ -98,12 +104,5 @@ Me chamo Arthur Loureiro Nolasco, tenho 22 anos e sou natural do Espírito Santo
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnolasco&theme=tokyonight&layout=compact" 
   />
-</p>
 
 />
-
-### 🧠CERTIFICAÇÕES
-
-Aplicação do Power BI para Aprimoramento da Gestão, Escola Nacional de Admnistração Pública
-Microsoft Excel 2016 - Intermediário, Fundação Bradesco
-Desenvolvimento Web Completo, Udemy
