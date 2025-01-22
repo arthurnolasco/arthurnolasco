@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Arthur Nolasco
+# 👨‍💻Arthur Nolasco
 
 **`Desenvolvedor Back-End`**
 
