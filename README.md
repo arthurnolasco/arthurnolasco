@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Arthur Loureiro Nolasco, tenho 22 anos e sou natural do Espirito Santo. Concluí o ensino médio na UEEM 'Guarapari'. Atualmente, estou cursando Engenharia de Controle e Automação na Universidade Federal de Minas Gerais.
+Me chamo Arthur Loureiro Nolasco, tenho 22 anos e sou natural do Espirito Santo. Concluí o ensino médio na EEEM 'Guarapari'. Atualmente, estou cursando Engenharia de Controle e Automação na Universidade Federal de Minas Gerais.
 
 
 ### 🤖 Linguagens e Tecnologias
