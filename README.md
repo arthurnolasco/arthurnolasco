@@ -110,5 +110,5 @@ Me chamo Arthur Loureiro Nolasco, tenho 22 anos e sou natural do Espírito Santo
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnolasco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnolasco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
