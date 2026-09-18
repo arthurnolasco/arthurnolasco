@@ -1,114 +1,38 @@
-# 👨‍💻Arthur Nolasco
+# Arthur Nolasco
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End · Integração de Sistemas`**
 
-Me chamo Arthur Loureiro Nolasco, tenho 22 anos e sou natural do Espírito Santo. Concluí o ensino médio na EEEM 'Guarapari'. Atualmente, estou cursando Engenharia de Controle e Automação na Universidade Federal de Minas Gerais.
+Trabalho com automação de processos e integração de sistemas corporativos. No dia a dia, desenvolvo e mantenho APIs REST que conectam ERP, banco de dados e plataformas de workflow, em PHP/Laravel e C#/.NET. Graduando em Engenharia de Controle e Automação pela UFMG.
 
+Boa parte do meu código está em repositórios privados de trabalho, então o que está aqui não reflete o que faço hoje.
 
-### 🤖 Linguagens e Tecnologias
+### Stack
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg"
-/>
-<img 
-    align="left" 
-    alt="VHDL" 
-    title="VHDL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/a1/af/cfa1afe8-fb4b-7243-a089-51071589dc64/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<br/>
+<br clear="left"/>
 <br/>
 
-### 🧠CERTIFICAÇÕES
+### Também trabalho com
 
-•Aplicação do Power BI para Aprimoramento da Gestão, Escola Nacional de Admnistração Pública <br/>
-•Microsoft Excel 2016 - Intermediário, Fundação Bradesco <br/>
-•Desenvolvimento Web Completo, Udemy
+`APIs REST` · `TOTVS RM` · `BPMS` · `Power Apps` · `Power Automate` · `Power BI` · `Postman`
 
-### 📊 Estatísticas
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurnolasco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15" 
-  />
+### Certificações
+
+- Aplicação do Power BI para Aprimoramento da Gestão — ENAP
+- Desenvolvimento Web Completo — Udemy
+
+### Contato
+
+[LinkedIn](https://linkedin.com/in/arthurnolasco) · arthurloureironolasco@gmail.com
