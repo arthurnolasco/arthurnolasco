@@ -1,38 +1,69 @@
 # Arthur Nolasco
 
-**`Desenvolvedor Back-End · Integração de Sistemas`**
+**`Backend Developer · Systems Integration · Process Automation`**
 
-Trabalho com automação de processos e integração de sistemas corporativos. No dia a dia, desenvolvo e mantenho APIs REST que conectam ERP, banco de dados e plataformas de workflow, em PHP/Laravel e C#/.NET. Graduando em Engenharia de Controle e Automação pela UFMG.
+I develop backend solutions, integrate enterprise systems and automate business processes, connecting business requirements with technical implementation.
 
-Boa parte do meu código está em repositórios privados de trabalho, então o que está aqui não reflete o que faço hoje.
+My professional experience includes REST API development, legacy system migration from C#/.NET to PHP/Laravel, asynchronous processing, SQL databases and enterprise workflow automation.
 
-### Stack
+Currently working with enterprise integrations, application development and process automation in corporate environments.
 
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+Most of my professional contributions are made in private enterprise repositories.
 
-<br clear="left"/>
-<br/>
+## Tech Stack
 
-### Também trabalho com
+### Backend Development
 
-`APIs REST` · `TOTVS RM` · `BPMS` · `Power Apps` · `Power Automate` · `Power BI` · `Postman`
+<img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;
+<img alt="Laravel" title="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;
+<img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
+<img alt=".NET" title=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
+<img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-### Certificações
+### Databases & Asynchronous Processing
 
-- Aplicação do Power BI para Aprimoramento da Gestão — ENAP
-- Desenvolvimento Web Completo — Udemy
+<img alt="SQL Server" title="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;
+<img alt="Redis" title="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 
-### Contato
+`SQL` · `Laravel Horizon` · `Queues` · `Background Jobs`
 
-[LinkedIn](https://linkedin.com/in/arthurnolasco) · arthurloureironolasco@gmail.com
+### Development & Infrastructure
+
+<img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;
+<img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
+<img alt="GitHub Actions" title="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />&nbsp;
+<img alt="Linux" title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;
+<img alt="PowerShell" title="PowerShell" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />&nbsp;
+<img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
+`CI/CD` · `Version Control` · `Windows Server` · `API Testing`
+
+### Frontend
+
+<img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+<img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+<img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+### Enterprise Integration & Automation
+
+`REST APIs` · `ERP Integration` · `TOTVS RM` · `BPMS` · `BPMN`
+
+`Power Apps` · `Power Automate` · `Power BI`
+
+## Professional Focus
+
+- Backend development and REST API design
+- Enterprise systems integration
+- Legacy system modernisation
+- Asynchronous processing and queue management
+- Business process automation
+- SQL development and application troubleshooting
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurnolasco)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurloureironolasco@gmail.com)
+
+Based in Brazil · Open to remote opportunities
+
+Portuguese (Native) · English (B2)
