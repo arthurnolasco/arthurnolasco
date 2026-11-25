@@ -63,6 +63,7 @@ Most of my professional contributions are made in private enterprise repositorie
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurnolasco)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurloureironolasco@gmail.com)
+[![CV](https://img.shields.io/badge/CV-PDF-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/arthurnolasco/arthurnolasco/blob/main/CV/Arthur-Nolasco-Backend-Ex.pdf)
 
 Based in Brazil · Open to remote opportunities
 
